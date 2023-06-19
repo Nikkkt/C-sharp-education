@@ -1,0 +1,8 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Hello world\Hello world\bin\Debug\Hello world.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Hello world\Hello world\bin\Debug\Hello world.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Hello world\Hello world\bin\Debug\Hello world.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Hello world\Hello world\obj\Debug\Hello world.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Hello world\Hello world\obj\Debug\Hello world.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Hello world\Hello world\obj\Debug\Hello world.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Hello world\Hello world\obj\Debug\Hello world.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Hello world\Hello world\obj\Debug\Hello world.pdb

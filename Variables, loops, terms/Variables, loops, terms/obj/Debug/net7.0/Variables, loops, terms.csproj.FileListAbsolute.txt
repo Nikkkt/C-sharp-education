@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\bin\Debug\net7.0\Variables, loops, terms.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\bin\Debug\net7.0\Variables, loops, terms.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\bin\Debug\net7.0\Variables, loops, terms.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\bin\Debug\net7.0\Variables, loops, terms.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\bin\Debug\net7.0\Variables, loops, terms.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\obj\Debug\net7.0\Variables, loops, terms.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\obj\Debug\net7.0\Variables, loops, terms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\obj\Debug\net7.0\Variables, loops, terms.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\obj\Debug\net7.0\Variables, loops, terms.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\obj\Debug\net7.0\Variables, loops, terms.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\obj\Debug\net7.0\Variables, loops, terms.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\obj\Debug\net7.0\refint\Variables, loops, terms.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\obj\Debug\net7.0\Variables, loops, terms.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\obj\Debug\net7.0\Variables, loops, terms.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Variables, loops, terms\Variables, loops, terms\obj\Debug\net7.0\ref\Variables, loops, terms.dll
