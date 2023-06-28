@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("arrays, strings, regex, classes")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Arrays, strings, regex, classes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("arrays, strings, regex, classes")]
-[assembly: System.Reflection.AssemblyTitleAttribute("arrays, strings, regex, classes")]
+[assembly: System.Reflection.AssemblyProductAttribute("Arrays, strings, regex, classes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Arrays, strings, regex, classes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

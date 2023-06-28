@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\arrays, strings, regex, classes\\arrays, strings, regex, classes\\Arrays, strings, regex, classes.csproj": {}
+    "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\Arrays, strings, regex, classes\\arrays, strings, regex, classes\\Arrays, strings, regex, classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\arrays, strings, regex, classes\\arrays, strings, regex, classes\\Arrays, strings, regex, classes.csproj": {
+    "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\Arrays, strings, regex, classes\\arrays, strings, regex, classes\\Arrays, strings, regex, classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\arrays, strings, regex, classes\\arrays, strings, regex, classes\\Arrays, strings, regex, classes.csproj",
+        "projectUniqueName": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\Arrays, strings, regex, classes\\arrays, strings, regex, classes\\Arrays, strings, regex, classes.csproj",
         "projectName": "Arrays, strings, regex, classes",
-        "projectPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\arrays, strings, regex, classes\\arrays, strings, regex, classes\\Arrays, strings, regex, classes.csproj",
+        "projectPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\Arrays, strings, regex, classes\\arrays, strings, regex, classes\\Arrays, strings, regex, classes.csproj",
         "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\arrays, strings, regex, classes\\arrays, strings, regex, classes\\obj\\",
+        "outputPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\Arrays, strings, regex, classes\\arrays, strings, regex, classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
