@@ -178,6 +178,42 @@ namespace arrays__strings__regex__classes
             for (int i = 0; i < tmp.Length; i++) ExamsGrades[i] = tmp[i];
             ExamsGrades[ExamsGrades.Length - 1] = grade;
         }
+        public int GetAverageHomeworkGrade()
+        {
+            int result = 0;
+            if (HomeworkGrades.Length != 0)
+            {
+                foreach (int grade in HomeworkGrades) result += grade;
+                result /= HomeworkGrades.Length;
+            }
+            return result;
+        }
+
+        public override bool Equals(object obj)
+        {
+            Student obj2 = obj as Student;
+            if (obj == null) return false;
+            return (obj2.surname == this.surname && obj2.name == this.name &&
+                obj2.patronymic == this.patronymic && obj2.dateOfBirth == this.dateOfBirth &&
+                obj2.address == this.address && obj2.phoneNumber == this.phoneNumber);
+        }
+
+        public static bool operator ==(Student student1, Student student2)
+        {
+            if (ReferenceEquals(student1, student2)) return true;
+            if ((object)student1 != null) return student1.Equals(student2);
+            if ((object)student2 != null) return student2.Equals(student1);
+            return (student1.surname == student2.surname && student1.name == student2.name &&
+                student1.patronymic == student2.patronymic && student1.dateOfBirth == student2.dateOfBirth &&
+                student1.address == student2.address && student1.phoneNumber == student2.phoneNumber);
+        }
+        public static bool operator !=(Student student1, Student student2) { return !(student1 == student2); }
+        public static bool operator <(Student student1, Student student2) { return student1.GetAverageHomeworkGrade() <  student2.GetAverageHomeworkGrade(); }
+        public static bool operator >(Student student1, Student student2) { return student1.GetAverageHomeworkGrade() > student2.GetAverageHomeworkGrade(); }
+        public static bool operator <=(Student student1, Student student2) { return student1.GetAverageHomeworkGrade() <= student2.GetAverageHomeworkGrade(); }
+        public static bool operator >=(Student student1, Student student2) { return student1.GetAverageHomeworkGrade() >= student2.GetAverageHomeworkGrade(); }
+        public static bool operator true(Student student) { return (student.GetAverageHomeworkGrade() >= 7); }
+        public static bool operator false(Student student) { return (student.GetAverageHomeworkGrade() < 7); }
 
         public void ShowInfo() { 
             Console.WriteLine($"Full name: {Surname} {Name} {Patronymic}\nDate of birth: {DateOfBirth.ToShortDateString()}\nAddress: {Address.toString()}\nPhone number: {PhoneNumber}");

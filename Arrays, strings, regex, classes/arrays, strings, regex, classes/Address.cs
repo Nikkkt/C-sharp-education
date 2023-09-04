@@ -97,6 +97,26 @@ namespace arrays__strings__regex__classes
             }
         }
 
+        public override bool Equals(object obj)
+        {
+            Address obj2 = obj as Address;
+            if (obj == null) return false;
+            return (obj2.country == this.country && obj2.city == this.city &&
+                obj2.region == this.region && obj2.postalCode == this.postalCode &&
+                obj2.street == this.street && obj2.house == this.house);
+        }
+
+        public static bool operator ==(Address address1, Address address2)
+        {
+            if (ReferenceEquals(address1, address2)) return true;
+            if ((object)address1 != null) return address1.Equals(address2);
+            if ((object)address2 != null) return address2.Equals(address1);
+            return (address1.country == address2.country && address1.city == address2.city &&
+                address1.region == address2.region && address1.postalCode == address2.postalCode &&
+                address1.street == address2.street && address1.house == address2.house);
+        }
+        public static bool operator !=(Address address1, Address address2) { return !(address1 == address2); }
+
         public string toString() { return $"{Street}, {House}, {City}, {Region}, {Country}, {PostalCode}"; }
     }
 }
