@@ -13,3 +13,5 @@ C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\arrays, strings, 
 C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\arrays, strings, regex, classes\arrays, strings, regex, classes\obj\Debug\net7.0\arrays, strings, regex, classes.pdb
 C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\arrays, strings, regex, classes\arrays, strings, regex, classes\obj\Debug\net7.0\arrays, strings, regex, classes.genruntimeconfig.cache
 C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\arrays, strings, regex, classes\arrays, strings, regex, classes\obj\Debug\net7.0\ref\arrays, strings, regex, classes.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Arrays, strings, regex, classes\arrays, strings, regex, classes\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Arrays, strings, regex, classes\arrays, strings, regex, classes\obj\Debug\net7.0\Arrays, strings, regex, classes.csproj.CopyComplete

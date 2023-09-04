@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace arrays__strings__regex__classes
 {
@@ -62,25 +63,101 @@ namespace arrays__strings__regex__classes
             ExamsGrades = examsGrades;
         }
 
-        public string GetSurname() { return Surname; }
-        public string GetName() { return Name; }
-        public string GetPatronymic() {  return Patronymic; }
-        public DateTime GetDateOfBirth() {  return DateOfBirth; }
-        public Address GetAddress() { return Address; }
-        public string GetPhoneNumber() { return PhoneNumber; }
-        public int[] GetHomeworkGrades() {  return HomeworkGrades; }
-        public int[] GetFinalworkGrades() { return FinalworkGrades; }
-        public int[] GetExamsGrades() { return ExamsGrades; }
+        public string surname
+        {
+            get { return Surname; }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value)) throw new InvalidSurname("Null or whitespace value");
+                if (!value.All(el => char.IsLetter(el))) throw new InvalidSurname("Invalid data");
+                Surname = value;
+            }
+        }
 
-        public void SetSurname(string surname) { Surname = surname; }
-        public void SetName(string name) {  Name = name; }
-        public void SetPatronymic(string patronymic) { Patronymic = patronymic; }
-        public void SetDateOfBirth(DateTime dateOfBirth) { DateOfBirth = dateOfBirth; }
-        public void SetAddress(Address address) { Address = address; }
-        public void SetPhoneNumber(string phoneNumber) { PhoneNumber = phoneNumber; }
-        public void SetHomeworkGrades(int[] homeworkGrades) { HomeworkGrades = homeworkGrades; }
-        public void SetFinalworkGrades(int[] finalworkGrades) { FinalworkGrades = finalworkGrades; }
-        public void SetExamsGrades(int[] examsGrades) { ExamsGrades = examsGrades; }
+        public string name
+        {
+            get { return Name; }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value)) throw new InvalidName("Null or whitespace value");
+                if (!value.All(el => char.IsLetter(el))) throw new InvalidName("Invalid data");
+                Name = value;
+            }
+        }
+
+        public string patronymic
+        {
+            get { return Patronymic; }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value)) throw new InvalidPatronymic("Null or whitespace value");
+                if (!value.All(el => char.IsLetter(el))) throw new InvalidPatronymic("Invalid data");
+                Patronymic = value;
+            }
+        }
+
+        public DateTime dateOfBirth
+        {
+            get { return DateOfBirth; }
+            set
+            {
+                if (value >= DateTime.Now || value <= DateTime.Now.AddYears(-80)) throw new InvalidBirthDate("Invalid birth date");
+                DateOfBirth = value;
+            }
+        }
+
+        public Address address
+        {
+            get { return Address; }
+            set
+            {
+                if (value == null) throw new InvalidAddress("Null value");
+                Address = value;
+            }
+        }
+
+        public string phoneNumber
+        {
+            get { return PhoneNumber; }
+            set
+            {
+                if (value.Length <= 8 || value.Length >= 12) throw new InvalidPhoneNumber("Invalid phone number");
+                PhoneNumber = value;
+            }
+        }
+
+        public int[] homeworkGrades
+        {
+            get { return HomeworkGrades; }
+            set
+            {
+                if (value == null) throw new InvalidGrade("Null value");
+                if (!value.All(el => el >= 1 && el <= 12)) throw new InvalidGrade("Invalid value of the grade");
+                HomeworkGrades = value;
+            }
+        }
+
+        public int[] finalworkGrades
+        {
+            get { return FinalworkGrades; }
+            set
+            {
+                if (value == null) throw new InvalidGrade("Null value");
+                if (!value.All(el => el >= 1 && el <= 12)) throw new InvalidGrade("Invalid value of the grade");
+                FinalworkGrades = value;
+            }
+        }
+
+        public int[] examsGrades
+        {
+            get { return ExamsGrades; }
+            set
+            {
+                if (value == null) throw new InvalidGrade("Null value");
+                if (!value.All(el => el >= 1 && el <= 12)) throw new InvalidGrade("Invalid value of the grade");
+                ExamsGrades = value;
+            }
+        }
 
         public void AddHomeworkGrade(int grade)
         {
