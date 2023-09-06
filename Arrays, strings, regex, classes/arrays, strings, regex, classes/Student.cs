@@ -224,5 +224,14 @@ namespace arrays__strings__regex__classes
             Console.Write("\nExams grades: ");
             foreach (var i in ExamsGrades) Console.Write(i + " ");
         }
+
+        public override string ToString()
+        {
+            string homeworkGrades = ""; foreach (int grade in HomeworkGrades) homeworkGrades += grade + " ";
+            string finalworkGrades = ""; foreach (int grade in FinalworkGrades) finalworkGrades += grade + " ";
+            string examsGrades = ""; foreach (int grade in ExamsGrades) examsGrades += grade + " ";
+            string result = $"Full name: {Surname} {Name} {Patronymic}\nDate of birth: {DateOfBirth.ToShortDateString()}\nAddress: {Address.toString()}\nPhone number: {PhoneNumber}\nHomework grades: {homeworkGrades}\nFinalwork grades: {finalworkGrades}\nExam grades: {examsGrades}";
+            return result;
+        }
     }
 }
