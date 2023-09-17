@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
 using System.Linq;
@@ -11,7 +12,7 @@ using System.Xml.Linq;
 
 namespace arrays__strings__regex__classes
 {
-    internal class Group
+    internal class Group : IEnumerable<Student>
     {
         private List<Student> Students;
         private string GroupName;
@@ -101,6 +102,10 @@ namespace arrays__strings__regex__classes
             Specialization = specialization;
             GroupNumber = groupNumber;
         }
+
+        public IEnumerator<Student> GetEnumerator() { return students.GetEnumerator(); }
+        IEnumerator IEnumerable.GetEnumerator() { return ((IEnumerable)students).GetEnumerator(); }
+        public void Sort(IComparer<Student> sortType) { students.Sort(sortType); }
 
         public List<Student> students
         {

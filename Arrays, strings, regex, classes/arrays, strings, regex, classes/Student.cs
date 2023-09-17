@@ -7,7 +7,7 @@ using System.Xml.Linq;
 
 namespace arrays__strings__regex__classes
 {
-    internal class Student
+    internal class Student : IComparable<Student>
     {
         private string Surname;
         private string Name;
@@ -61,6 +61,43 @@ namespace arrays__strings__regex__classes
             HomeworkGrades = homeworkGrades;
             FinalworkGrades = finalworkGrades;
             ExamsGrades = examsGrades;
+        }
+
+        public int CompareTo(Student other)
+        {
+            if (this == other) return 0;
+            if (this > other) return 1;
+            else return -1;
+        }
+
+        public class SortByHomework : IComparer<Student>
+        {
+            public int Compare(Student first, Student second)
+            {
+                if (first.homeworkGrades.Average() == second.homeworkGrades.Average()) return 0;
+                if (first.homeworkGrades.Average() > second.homeworkGrades.Average()) return 1;
+                else return -1;
+            }
+        }
+
+        public class SortByFinalWork : IComparer<Student>
+        {
+            public int Compare(Student first, Student second)
+            {
+                if (first.finalworkGrades.Average() == second.finalworkGrades.Average()) return 0;
+                if (first.finalworkGrades.Average() > second.finalworkGrades.Average()) return 1;
+                else return -1;
+            }
+        }
+
+        public class SortByExamsWork : IComparer<Student>
+        {
+            public int Compare(Student first, Student second)
+            {
+                if (first.examsGrades.Average() == second.examsGrades.Average()) return 0;
+                if (first.examsGrades.Average() > second.examsGrades.Average()) return 1;
+                else return -1;
+            }
         }
 
         public string surname
