@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\bin\Debug\net7.0\Events.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\bin\Debug\net7.0\Events.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\bin\Debug\net7.0\Events.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\bin\Debug\net7.0\Events.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\bin\Debug\net7.0\Events.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\obj\Debug\net7.0\Events.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\obj\Debug\net7.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\obj\Debug\net7.0\Events.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\obj\Debug\net7.0\Events.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\obj\Debug\net7.0\Events.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\obj\Debug\net7.0\Events.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\obj\Debug\net7.0\refint\Events.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\obj\Debug\net7.0\Events.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\obj\Debug\net7.0\Events.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Events\Events\obj\Debug\net7.0\ref\Events.dll

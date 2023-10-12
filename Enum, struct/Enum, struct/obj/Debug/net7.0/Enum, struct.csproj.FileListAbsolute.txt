@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\bin\Debug\net7.0\Enum, struct.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\bin\Debug\net7.0\Enum, struct.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\bin\Debug\net7.0\Enum, struct.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\bin\Debug\net7.0\Enum, struct.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\bin\Debug\net7.0\Enum, struct.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\obj\Debug\net7.0\Enum, struct.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\obj\Debug\net7.0\Enum, struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\obj\Debug\net7.0\Enum, struct.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\obj\Debug\net7.0\Enum, struct.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\obj\Debug\net7.0\Enum, struct.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\obj\Debug\net7.0\Enum, struct.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\obj\Debug\net7.0\refint\Enum, struct.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\obj\Debug\net7.0\Enum, struct.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\obj\Debug\net7.0\Enum, struct.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Enum, struct\Enum, struct\obj\Debug\net7.0\ref\Enum, struct.dll

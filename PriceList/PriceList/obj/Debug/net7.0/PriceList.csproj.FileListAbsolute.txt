@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\bin\Debug\net7.0\PriceList.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\bin\Debug\net7.0\PriceList.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\bin\Debug\net7.0\PriceList.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\bin\Debug\net7.0\PriceList.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\bin\Debug\net7.0\PriceList.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\obj\Debug\net7.0\PriceList.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\obj\Debug\net7.0\PriceList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\obj\Debug\net7.0\PriceList.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\obj\Debug\net7.0\PriceList.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\obj\Debug\net7.0\PriceList.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\obj\Debug\net7.0\PriceList.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\obj\Debug\net7.0\refint\PriceList.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\obj\Debug\net7.0\PriceList.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\obj\Debug\net7.0\PriceList.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\PriceList\PriceList\obj\Debug\net7.0\ref\PriceList.dll
