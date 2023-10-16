@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\bin\Debug\net7.0\Binary Tree.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\bin\Debug\net7.0\Binary Tree.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\bin\Debug\net7.0\Binary Tree.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\bin\Debug\net7.0\Binary Tree.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\bin\Debug\net7.0\Binary Tree.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\obj\Debug\net7.0\Binary Tree.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\obj\Debug\net7.0\Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\obj\Debug\net7.0\Binary Tree.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\obj\Debug\net7.0\Binary Tree.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\obj\Debug\net7.0\Binary Tree.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\obj\Debug\net7.0\Binary Tree.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\obj\Debug\net7.0\refint\Binary Tree.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\obj\Debug\net7.0\Binary Tree.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\obj\Debug\net7.0\Binary Tree.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Binary Tree\Binary Tree\obj\Debug\net7.0\ref\Binary Tree.dll
