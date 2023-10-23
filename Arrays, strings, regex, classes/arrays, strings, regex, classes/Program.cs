@@ -50,3 +50,8 @@ Console.WriteLine($"{TestGroup["Vasiliy", "Pupkin"]}\n");
 TestGroup["Vasiliy", "Pupkin"] = student1;
 
 foreach (Student student in TestGroup) { Console.WriteLine(student + "\n"); }
+
+Console.WriteLine("\nPress key:");
+Console.WriteLine("Space: Jump\nEnter: Select\nEsc: Sleep\nUp, Down, Right, Left: Move\nF1: Info\n");
+
+while (true) if (Console.KeyAvailable) { ConsoleKey key = Console.ReadKey(true).Key; student1.key.Listen(key); }

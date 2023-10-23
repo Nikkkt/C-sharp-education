@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\bin\Debug\net7.0\Game.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\bin\Debug\net7.0\Game.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\bin\Debug\net7.0\Game.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\bin\Debug\net7.0\Game.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\bin\Debug\net7.0\Game.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\obj\Debug\net7.0\Game.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\obj\Debug\net7.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\obj\Debug\net7.0\Game.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\obj\Debug\net7.0\Game.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\obj\Debug\net7.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\obj\Debug\net7.0\Game.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\obj\Debug\net7.0\refint\Game.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\obj\Debug\net7.0\Game.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\obj\Debug\net7.0\Game.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Game\Game\obj\Debug\net7.0\ref\Game.dll

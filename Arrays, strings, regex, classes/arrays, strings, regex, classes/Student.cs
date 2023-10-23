@@ -18,6 +18,7 @@ namespace arrays__strings__regex__classes
         private int[] HomeworkGrades;
         private int[] FinalworkGrades;
         private int[] ExamsGrades;
+        public StudentKeyListener key = new StudentKeyListener();
 
         public Student() {
             Surname = "NONE";
@@ -29,6 +30,15 @@ namespace arrays__strings__regex__classes
             HomeworkGrades = new int[] { };
             FinalworkGrades = new int[] { };
             ExamsGrades = new int[] { };
+
+            key.Enter += Select;
+            key.Space += Jump;
+            key.Escape += Sleep;
+            key.F1 += Info;
+            key.Left += Move;
+            key.Right += Move;
+            key.Up += Move;
+            key.Down += Move;
         }
 
         public Student(
@@ -45,6 +55,15 @@ namespace arrays__strings__regex__classes
             HomeworkGrades = homeworkGrades;
             FinalworkGrades = finalworkGrades;
             ExamsGrades = examsGrades;
+
+            key.Enter += Select;
+            key.Space += Jump;
+            key.Escape += Sleep;
+            key.F1 += Info;
+            key.Left += Move;
+            key.Right += Move;
+            key.Up += Move;
+            key.Down += Move;
         }
 
         public Student(
@@ -269,6 +288,22 @@ namespace arrays__strings__regex__classes
             string examsGrades = ""; foreach (int grade in ExamsGrades) examsGrades += grade + " ";
             string result = $"Full name: {Surname} {Name} {Patronymic}\nDate of birth: {DateOfBirth.ToShortDateString()}\nAddress: {Address.toString()}\nPhone number: {PhoneNumber}\nHomework grades: {homeworkGrades}\nFinalwork grades: {finalworkGrades}\nExam grades: {examsGrades}";
             return result;
+        }
+
+        private void Select(string message) { Console.WriteLine($"Select {Name} {Surname}"); }
+
+        private void Jump(string message) { Console.WriteLine($"{Name} jump"); }
+
+        private void Sleep(string message) { Console.WriteLine($"{Name} sleep"); }
+
+        private void Info(string message) { ShowInfo(); Console.WriteLine(); }
+
+        private void Move(string message)
+        {
+            if (message == "Right") Console.WriteLine($"{Name} move right");
+            else if (message == "Left") Console.WriteLine($"{Name} move left");
+            else if (message == "Up") Console.WriteLine($"{Name} move up");
+            else if (message == "Down") Console.WriteLine($"{Name} move down");
         }
     }
 }
