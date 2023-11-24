@@ -1,0 +1,16 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\bin\Debug\net7.0-windows\ButtonDrawing.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\bin\Debug\net7.0-windows\ButtonDrawing.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\bin\Debug\net7.0-windows\ButtonDrawing.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\bin\Debug\net7.0-windows\ButtonDrawing.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\bin\Debug\net7.0-windows\ButtonDrawing.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\obj\Debug\net7.0-windows\ButtonDrawing.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\obj\Debug\net7.0-windows\ButtonDrawing.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\obj\Debug\net7.0-windows\ButtonDrawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\obj\Debug\net7.0-windows\ButtonDrawing.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\obj\Debug\net7.0-windows\ButtonDrawing.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\obj\Debug\net7.0-windows\ButtonDrawing.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\obj\Debug\net7.0-windows\ButtonDrawing.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\obj\Debug\net7.0-windows\refint\ButtonDrawing.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\obj\Debug\net7.0-windows\ButtonDrawing.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\obj\Debug\net7.0-windows\ButtonDrawing.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ButtonDrawing\ButtonDrawing\obj\Debug\net7.0-windows\ref\ButtonDrawing.dll
