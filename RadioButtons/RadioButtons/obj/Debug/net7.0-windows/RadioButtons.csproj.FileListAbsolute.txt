@@ -1,0 +1,16 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\bin\Debug\net7.0-windows\RadioButtons.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\bin\Debug\net7.0-windows\RadioButtons.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\bin\Debug\net7.0-windows\RadioButtons.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\bin\Debug\net7.0-windows\RadioButtons.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\bin\Debug\net7.0-windows\RadioButtons.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\obj\Debug\net7.0-windows\RadioButtons.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\obj\Debug\net7.0-windows\RadioButtons.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\obj\Debug\net7.0-windows\RadioButtons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\obj\Debug\net7.0-windows\RadioButtons.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\obj\Debug\net7.0-windows\RadioButtons.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\obj\Debug\net7.0-windows\RadioButtons.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\obj\Debug\net7.0-windows\RadioButtons.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\obj\Debug\net7.0-windows\refint\RadioButtons.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\obj\Debug\net7.0-windows\RadioButtons.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\obj\Debug\net7.0-windows\RadioButtons.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\RadioButtons\RadioButtons\obj\Debug\net7.0-windows\ref\RadioButtons.dll

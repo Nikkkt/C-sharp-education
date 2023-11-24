@@ -1,0 +1,16 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\bin\Debug\net7.0-windows\2DButtons.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\bin\Debug\net7.0-windows\2DButtons.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\bin\Debug\net7.0-windows\2DButtons.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\bin\Debug\net7.0-windows\2DButtons.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\bin\Debug\net7.0-windows\2DButtons.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\obj\Debug\net7.0-windows\_2DButtons.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\obj\Debug\net7.0-windows\2DButtons.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\obj\Debug\net7.0-windows\2DButtons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\obj\Debug\net7.0-windows\2DButtons.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\obj\Debug\net7.0-windows\2DButtons.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\obj\Debug\net7.0-windows\2DButtons.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\obj\Debug\net7.0-windows\2DButtons.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\obj\Debug\net7.0-windows\refint\2DButtons.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\obj\Debug\net7.0-windows\2DButtons.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\obj\Debug\net7.0-windows\2DButtons.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\2DButtons\2DButtons\obj\Debug\net7.0-windows\ref\2DButtons.dll

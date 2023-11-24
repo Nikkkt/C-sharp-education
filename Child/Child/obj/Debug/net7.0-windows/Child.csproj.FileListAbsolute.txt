@@ -1,0 +1,17 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\bin\Debug\net7.0-windows\Child.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\bin\Debug\net7.0-windows\Child.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\bin\Debug\net7.0-windows\Child.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\bin\Debug\net7.0-windows\Child.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\bin\Debug\net7.0-windows\Child.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\Child.Child.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\Child.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\Child.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\Child.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\Child.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\Child.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\Child.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\Child.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\refint\Child.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\Child.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\Child.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Child\Child\obj\Debug\net7.0-windows\ref\Child.dll

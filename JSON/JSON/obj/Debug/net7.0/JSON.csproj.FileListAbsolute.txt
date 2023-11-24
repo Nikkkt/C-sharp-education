@@ -1,0 +1,17 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\obj\Debug\net7.0\JSON.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\obj\Debug\net7.0\JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\obj\Debug\net7.0\JSON.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\obj\Debug\net7.0\JSON.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\obj\Debug\net7.0\JSON.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\bin\Debug\net7.0\JSON.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\bin\Debug\net7.0\JSON.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\bin\Debug\net7.0\JSON.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\bin\Debug\net7.0\JSON.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\bin\Debug\net7.0\JSON.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\obj\Debug\net7.0\JSON.csproj.CopyComplete
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\obj\Debug\net7.0\JSON.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\obj\Debug\net7.0\refint\JSON.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\obj\Debug\net7.0\JSON.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\obj\Debug\net7.0\JSON.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\JSON\JSON\obj\Debug\net7.0\ref\JSON.dll

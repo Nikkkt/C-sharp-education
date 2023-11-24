@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LvtuMrb5SAsmIWof76QwFnrAv3HReD4QyIOmTy0tA5CRHzowtqQUtvYWQkiY54tjFzmNp3qWIeb6Cx+OBQwKBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\JSON\\JSON\\JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

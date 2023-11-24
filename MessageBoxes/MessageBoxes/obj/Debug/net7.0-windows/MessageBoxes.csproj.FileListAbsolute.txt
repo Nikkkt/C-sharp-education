@@ -1,0 +1,16 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\bin\Debug\net7.0-windows\MessageBoxes.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\bin\Debug\net7.0-windows\MessageBoxes.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\bin\Debug\net7.0-windows\MessageBoxes.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\bin\Debug\net7.0-windows\MessageBoxes.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\bin\Debug\net7.0-windows\MessageBoxes.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\obj\Debug\net7.0-windows\MessageBoxes.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\obj\Debug\net7.0-windows\MessageBoxes.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\obj\Debug\net7.0-windows\MessageBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\obj\Debug\net7.0-windows\MessageBoxes.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\obj\Debug\net7.0-windows\MessageBoxes.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\obj\Debug\net7.0-windows\MessageBoxes.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\obj\Debug\net7.0-windows\MessageBoxes.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\obj\Debug\net7.0-windows\refint\MessageBoxes.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\obj\Debug\net7.0-windows\MessageBoxes.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\obj\Debug\net7.0-windows\MessageBoxes.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\MessageBoxes\MessageBoxes\obj\Debug\net7.0-windows\ref\MessageBoxes.dll

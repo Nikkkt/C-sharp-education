@@ -1,0 +1,17 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\bin\Debug\net7.0-windows\WinFormsIntro.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\bin\Debug\net7.0-windows\WinFormsIntro.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\bin\Debug\net7.0-windows\WinFormsIntro.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\bin\Debug\net7.0-windows\WinFormsIntro.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\bin\Debug\net7.0-windows\WinFormsIntro.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\WinFormsIntro.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\WinFormsIntro.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\WinFormsIntro.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\WinFormsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\WinFormsIntro.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\WinFormsIntro.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\WinFormsIntro.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\WinFormsIntro.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\refint\WinFormsIntro.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\WinFormsIntro.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\WinFormsIntro.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WinFormsIntro\WinFormsIntro\obj\Debug\net7.0-windows\ref\WinFormsIntro.dll

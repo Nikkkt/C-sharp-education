@@ -1,0 +1,16 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\bin\Debug\net7.0-windows\EscapingButton.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\bin\Debug\net7.0-windows\EscapingButton.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\bin\Debug\net7.0-windows\EscapingButton.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\bin\Debug\net7.0-windows\EscapingButton.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\bin\Debug\net7.0-windows\EscapingButton.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\obj\Debug\net7.0-windows\EscapingButton.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\obj\Debug\net7.0-windows\EscapingButton.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\obj\Debug\net7.0-windows\EscapingButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\obj\Debug\net7.0-windows\EscapingButton.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\obj\Debug\net7.0-windows\EscapingButton.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\obj\Debug\net7.0-windows\EscapingButton.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\obj\Debug\net7.0-windows\EscapingButton.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\obj\Debug\net7.0-windows\refint\EscapingButton.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\obj\Debug\net7.0-windows\EscapingButton.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\obj\Debug\net7.0-windows\EscapingButton.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\EscapingButton\EscapingButton\obj\Debug\net7.0-windows\ref\EscapingButton.dll
