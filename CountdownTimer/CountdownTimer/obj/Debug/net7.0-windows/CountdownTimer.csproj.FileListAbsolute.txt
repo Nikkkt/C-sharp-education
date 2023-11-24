@@ -1,0 +1,16 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\obj\Debug\net7.0-windows\CountdownTimer.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\obj\Debug\net7.0-windows\CountdownTimer.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\obj\Debug\net7.0-windows\CountdownTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\obj\Debug\net7.0-windows\CountdownTimer.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\obj\Debug\net7.0-windows\CountdownTimer.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\obj\Debug\net7.0-windows\CountdownTimer.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\bin\Debug\net7.0-windows\CountdownTimer.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\bin\Debug\net7.0-windows\CountdownTimer.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\bin\Debug\net7.0-windows\CountdownTimer.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\bin\Debug\net7.0-windows\CountdownTimer.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\bin\Debug\net7.0-windows\CountdownTimer.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\obj\Debug\net7.0-windows\CountdownTimer.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\obj\Debug\net7.0-windows\refint\CountdownTimer.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\obj\Debug\net7.0-windows\CountdownTimer.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\obj\Debug\net7.0-windows\CountdownTimer.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CountdownTimer\CountdownTimer\obj\Debug\net7.0-windows\ref\CountdownTimer.dll
