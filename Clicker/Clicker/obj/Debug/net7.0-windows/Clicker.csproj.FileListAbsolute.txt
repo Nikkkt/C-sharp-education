@@ -1,0 +1,16 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\bin\Debug\net7.0-windows\Clicker.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\bin\Debug\net7.0-windows\Clicker.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\bin\Debug\net7.0-windows\Clicker.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\bin\Debug\net7.0-windows\Clicker.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\bin\Debug\net7.0-windows\Clicker.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\obj\Debug\net7.0-windows\Clicker.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\obj\Debug\net7.0-windows\Clicker.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\obj\Debug\net7.0-windows\Clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\obj\Debug\net7.0-windows\Clicker.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\obj\Debug\net7.0-windows\Clicker.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\obj\Debug\net7.0-windows\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\obj\Debug\net7.0-windows\Clicker.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\obj\Debug\net7.0-windows\refint\Clicker.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\obj\Debug\net7.0-windows\Clicker.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\obj\Debug\net7.0-windows\Clicker.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\Clicker\Clicker\obj\Debug\net7.0-windows\ref\Clicker.dll
