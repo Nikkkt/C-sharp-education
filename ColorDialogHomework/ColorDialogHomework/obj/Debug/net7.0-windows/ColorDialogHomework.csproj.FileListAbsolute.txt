@@ -1,0 +1,16 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\bin\Debug\net7.0-windows\ColorDialogHomework.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\bin\Debug\net7.0-windows\ColorDialogHomework.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\bin\Debug\net7.0-windows\ColorDialogHomework.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\bin\Debug\net7.0-windows\ColorDialogHomework.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\bin\Debug\net7.0-windows\ColorDialogHomework.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\obj\Debug\net7.0-windows\ColorDialogHomework.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\obj\Debug\net7.0-windows\ColorDialogHomework.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\obj\Debug\net7.0-windows\ColorDialogHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\obj\Debug\net7.0-windows\ColorDialogHomework.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\obj\Debug\net7.0-windows\ColorDialogHomework.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\obj\Debug\net7.0-windows\ColorDialogHomework.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\obj\Debug\net7.0-windows\ColorDialogHomework.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\obj\Debug\net7.0-windows\refint\ColorDialogHomework.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\obj\Debug\net7.0-windows\ColorDialogHomework.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\obj\Debug\net7.0-windows\ColorDialogHomework.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\ColorDialogHomework\ColorDialogHomework\obj\Debug\net7.0-windows\ref\ColorDialogHomework.dll

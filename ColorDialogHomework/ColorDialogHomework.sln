@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorDialogHomework", "ColorDialogHomework\ColorDialogHomework.csproj", "{B43A42D1-98BE-462A-BBBB-19A5D8DB324D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43A42D1-98BE-462A-BBBB-19A5D8DB324D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43A42D1-98BE-462A-BBBB-19A5D8DB324D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43A42D1-98BE-462A-BBBB-19A5D8DB324D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43A42D1-98BE-462A-BBBB-19A5D8DB324D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEAAF4DA-F317-474E-9BDF-12E6717443AD}
+	EndGlobalSection
+EndGlobal
