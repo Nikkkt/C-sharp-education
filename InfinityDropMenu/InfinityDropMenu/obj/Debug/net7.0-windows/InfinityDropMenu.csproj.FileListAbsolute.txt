@@ -1,0 +1,16 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\bin\Debug\net7.0-windows\InfinityDropMenu.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\bin\Debug\net7.0-windows\InfinityDropMenu.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\bin\Debug\net7.0-windows\InfinityDropMenu.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\bin\Debug\net7.0-windows\InfinityDropMenu.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\bin\Debug\net7.0-windows\InfinityDropMenu.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\obj\Debug\net7.0-windows\InfinityDropMenu.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\obj\Debug\net7.0-windows\InfinityDropMenu.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\obj\Debug\net7.0-windows\InfinityDropMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\obj\Debug\net7.0-windows\InfinityDropMenu.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\obj\Debug\net7.0-windows\InfinityDropMenu.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\obj\Debug\net7.0-windows\InfinityDropMenu.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\obj\Debug\net7.0-windows\InfinityDropMenu.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\obj\Debug\net7.0-windows\refint\InfinityDropMenu.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\obj\Debug\net7.0-windows\InfinityDropMenu.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\obj\Debug\net7.0-windows\InfinityDropMenu.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\InfinityDropMenu\InfinityDropMenu\obj\Debug\net7.0-windows\ref\InfinityDropMenu.dll
