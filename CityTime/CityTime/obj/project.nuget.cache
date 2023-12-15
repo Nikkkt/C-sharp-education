@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUZ+aEBIohKV3sKt+qgZA3WTlRrn75s7RE/4A6glkINRQCgf5aXU1IoKchGIZsJmpC1AbZhNTJvyNBgouefH7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\CityTime\\CityTime\\CityTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nodatime\\3.1.9\\nodatime.3.1.9.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\timezoneconverter\\6.1.0\\timezoneconverter.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

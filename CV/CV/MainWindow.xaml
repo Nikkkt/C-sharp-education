@@ -1,0 +1,96 @@
+﻿<Window x:Class="CV.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CV"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <FlowDocumentScrollViewer>
+        <FlowDocument>
+            <Table>
+                <TableRowGroup>
+                    <TableRow>
+                        <TableCell>
+
+                            <Paragraph Background="Lavender">
+                                <LineBreak/>
+
+                                <Bold FontSize="24">
+                                    <Run>Nikita Terpilovskyi</Run>
+                                </Bold>
+                                <LineBreak/>
+                                <Bold FontSize="18">
+                                    <Run>Backend developer</Run>
+                                </Bold>
+
+                                <LineBreak/>
+                                <LineBreak/>
+
+                                <Run FontFamily="Calibry">Address: Odesa, 65000 Ukraine</Run>
+                                <LineBreak/>
+                                <Run FontFamily="Calibry">Phone: +380663351004</Run>
+                                <LineBreak/>
+                                <Run FontFamily="Calibry">E-mail: nikita.terpilovsky@gmail.com</Run>
+
+                                <LineBreak/>
+                            </Paragraph>
+                        </TableCell>
+                        <TableCell>
+                            <BlockUIContainer Background="Lavender">
+                                <Image Source="C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\CV\CV\image.jpg" Width="100" Height="160"/>
+                            </BlockUIContainer>
+                        </TableCell>
+                    </TableRow>
+                </TableRowGroup>
+            </Table>
+            <Paragraph>
+                <Bold>
+                    <Run FontFamily="Calibry">Technical Skills:</Run>
+                </Bold>
+                <LineBreak/>
+                <Run>- Python</Run>
+                <LineBreak/>
+                <Run>- Flask</Run>
+                <LineBreak/>
+                <Run>- SQLALchemy</Run>
+                <LineBreak/>
+                <Run>- HTML</Run>
+                <LineBreak/>
+                <Run>- CSS</Run>
+                <LineBreak/>
+                <Run>- JavaScript</Run>
+                <LineBreak/>
+                <Run>- Git</Run>
+                <LineBreak/>
+                <Run>- OOP</Run>
+                <LineBreak/>
+                <Run>- Programming</Run>
+                <LineBreak/>
+                <Run>- Algorithm Implementation</Run>
+            </Paragraph>
+            <Paragraph>
+                <Bold>
+                    <Run FontFamily="Calibry">Work History:</Run>
+                </Bold>
+                <LineBreak/>
+                <Run>2022-09 - 2023-09 - Odessa</Run>
+                <LineBreak/>
+                <Run>- Backend developer Developer</Run>
+                <LineBreak/>
+                <Run>Sickbenocouter, Odesa</Run>
+            </Paragraph>
+
+            <Paragraph>
+                <Bold>
+                    <Run FontFamily="Calibry">Education</Run>
+                </Bold>
+                <LineBreak/>
+                <Run>2023-09 - Current</Run>
+                <LineBreak/>
+                <Run>National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"</Run>
+                <LineBreak/>
+            </Paragraph>
+        </FlowDocument>
+    </FlowDocumentScrollViewer>
+</Window>
