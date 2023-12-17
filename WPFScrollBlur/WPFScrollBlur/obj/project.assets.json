@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\CV\\CV\\CV.csproj",
-      "projectName": "CV",
-      "projectPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\CV\\CV\\CV.csproj",
+      "projectUniqueName": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\WPFScrollBlur\\WPFScrollBlur\\WPFScrollBlur.csproj",
+      "projectName": "WPFScrollBlur",
+      "projectPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\WPFScrollBlur\\WPFScrollBlur\\WPFScrollBlur.csproj",
       "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\CV\\CV\\obj\\",
+      "outputPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\Programming\\C#\\WPFScrollBlur\\WPFScrollBlur\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
