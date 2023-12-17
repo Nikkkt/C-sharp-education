@@ -1,0 +1,46 @@
+﻿<Window x:Class="WpfGoogle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfGoogle"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10">
+            <Button Content="Mail" Margin="5" Background="Transparent" BorderBrush="Transparent"/>
+            <Button Content="Images" Margin="5" Background="Transparent" BorderBrush="Transparent"/>
+        </StackPanel>
+
+        <StackPanel VerticalAlignment="Center">
+            <Image Source="C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WpfGoogle\WpfGoogle\bin\Debug\net7.0-windows\Images\logo.png" Width="400" Height="75" Margin="0, 0, 0, 20"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0, 0, 0, 20">
+                <TextBox Width="200" Height="30" Text="Google search" TextAlignment="Left"/>
+                <Button Width="30" Height="30" Background="Transparent" BorderBrush="Transparent">
+                    <Image Source="C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WpfGoogle\WpfGoogle\bin\Debug\net7.0-windows\Images\keyboard.png" Width="20" Height="20" />
+                </Button>
+                <Button Width="30" Height="30" Background="Transparent" BorderBrush="Transparent">
+                    <Image Source="C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WpfGoogle\WpfGoogle\bin\Debug\net7.0-windows\Images\microphone.png" Width="20" Height="20" />
+                </Button>
+                <Button Width="30" Height="30" Background="Transparent" BorderBrush="Transparent">
+                    <Image Source="C:\Users\nikit\OneDrive\Рабочий стол\Programming\C#\WpfGoogle\WpfGoogle\bin\Debug\net7.0-windows\Images\camera.png" Width="20" Height="20" />
+                </Button>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Google search" Width="150" Height="30" Margin="5" Background="GhostWhite" BorderBrush="Transparent"/>
+                <Button Content="I'll be lucky!" Width="100" Height="30" Margin="5" Background="GhostWhite" BorderBrush="Transparent"/>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0, 0, 0, 10">
+            <TextBlock Text="About Google" Margin="5"/>
+            <TextBlock Text="Advertisement" Margin="5"/>
+            <TextBlock Text="For business" Margin="5"/>
+            <TextBlock Text="How Google Search works" Margin="5"/>
+            <TextBlock Text="Confidentiality" Margin="5"/>
+            <TextBlock Text="Terms and conditions" Margin="5"/>
+            <TextBlock Text="Settings" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
