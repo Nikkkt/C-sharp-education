@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFGallery", "WPFGallery\WPFGallery.csproj", "{31EAC0CB-D501-446F-88E3-37E68CC3DC19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EAC0CB-D501-446F-88E3-37E68CC3DC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EAC0CB-D501-446F-88E3-37E68CC3DC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EAC0CB-D501-446F-88E3-37E68CC3DC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EAC0CB-D501-446F-88E3-37E68CC3DC19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45E1A9CF-91FB-47FF-9B0B-8723580D73B4}
+	EndGlobalSection
+EndGlobal
